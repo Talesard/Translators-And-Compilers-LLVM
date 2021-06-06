@@ -1,0 +1,68 @@
+Test-1 duration = 662.951 ms
+Test-2 duration = 573.03 ms
+Test-3 duration = 567.182 ms
+Test-4 duration = 566.05 ms
+Test-5 duration = 566.384 ms
+Test-6 duration = 569.38 ms
+Test-7 duration = 567.971 ms
+Test-8 duration = 568.757 ms
+Test-9 duration = 566.482 ms
+Test-10 duration = 563.848 ms
+Test-11 duration = 566.715 ms
+
+average duration = 576.25 ms
+Test-1 duration = 382.563 ms
+Test-2 duration = 357.153 ms
+Test-3 duration = 365.187 ms
+Test-4 duration = 367.821 ms
+Test-5 duration = 368.2 ms
+Test-6 duration = 366.595 ms
+Test-7 duration = 369.584 ms
+Test-8 duration = 366.494 ms
+Test-9 duration = 386.574 ms
+Test-10 duration = 433.553 ms
+Test-11 duration = 492.835 ms
+
+average duration = 386.96 ms
+Test-1 duration = 562.494 ms
+Test-2 duration = 551.465 ms
+Test-3 duration = 551.055 ms
+Test-4 duration = 548.659 ms
+Test-5 duration = 463.484 ms
+Test-6 duration = 236.557 ms
+Test-7 duration = 232.813 ms
+Test-8 duration = 236.041 ms
+Test-9 duration = 240.273 ms
+Test-10 duration = 237.755 ms
+Test-11 duration = 235.95 ms
+
+average duration = 372.413 ms
+Test-1 duration = 294.694 ms
+Test-2 duration = 179.306 ms
+Test-3 duration = 194.264 ms
+Test-4 duration = 248.115 ms
+Test-5 duration = 241.021 ms
+Test-6 duration = 192.775 ms
+Test-7 duration = 432.06 ms
+Test-8 duration = 300.079 ms
+Test-9 duration = 205.7 ms
+Test-10 duration = 187.782 ms
+Test-11 duration = 185.693 ms
+
+average duration = 241.954 ms
+без векторизации, без раскрутки
+
+
+
+
+без векторизации с раскруткой
+
+
+
+
+с векторизацией, без раскрутки
+
+
+
+
+с векторизацией, с раскруткой
